@@ -1,0 +1,60 @@
+﻿
+
+
+Stocks (Inventory) Maintenance System SRS
+Problem Statement: The purpose of stock management system is to manage the entire details of the stock system in an automated way. The stocks are purchased from various suppliers and their entries are stored in the database. The system provides adding stock, removing stock, searching stock. It has admin and managerial tasks. It also involves purchasing of stocks by the customers and selling the stocks to store in warehouse.
+
+
+Project Plan:
+It was decided to use good Software engineering principals in the development of the
+system since the company had quite a big Stock management & was aiming to add
+new godowns & employees & expand their operations in the near future.
+
+Scope:
+ The System provides an interface to the customer where they can fill in orders for the
+item needed.
+• The sales person is concerned with the issue of items and can use this system.
+• Provide a communication platform between the customer and the sales person.
+
+
+Functional Requirements:
+1. The System holds all the details of the all the employees who are working in the
+organization.
+2. It allows admin to manage types of users, hold their details, authenticate these
+users at the time of login and accordingly provide different options.
+3. It holds the details of all the godowns which are part of our organization.
+4. It holds the details of all Product Stocks held in the ware-house of the company.
+5. The system allows the godown manager to log into the system and enter their
+inwards entries related to their godown.
+6. It also allows them to view the list of inward entries.
+7. The system allows the godown manager to log into the system and enter their
+outward entries and their purpose related to their godown.
+8. It also allows them to view the list of Outward entries.
+9. Whenever an inwards entry is entered then accordingly the stock number will be
+automatically updated.
+10. Whenever an outward entry is entered then accordingly the stock number will be
+automatically updated.
+11. The system allows the godown manager to log into the system and enter stock
+return entries and the reason for return.
+12. Whenver a return entry is entered then accordingly the stock number will be
+automatically updated if the reason is order cancelled otherwise It need not update the
+stock.
+12. It allows the users to change their password for future security.
+
+Non Functional Requirements:
+1. The system should be available over the intranet so that the Users like the godown
+managers & clerks can use the system from their respective locations which could be
+anywhere in the organization.
+2. For gaining entry into the system the admin should register user info and the user
+should be able use login & passwords for gaining access to the system.
+3. The users should be able to change their passwords for increased security.
+4. The system should be easy to understand and organized in a structured way. The users
+should also receive feedback about any errors that occur.
+6. There should be no limitation about the hardware platform that is to be used to run
+the system.
+7. Data integrity should be maintained if an error occurs or the whole system comes
+down.
+8. The system should display a user friendly menu for users to choose from.
+9. The system should display godown ID and item to be selected from the popup list
+in the forms .
+10. Services of the system should be available 24 hours a day.
