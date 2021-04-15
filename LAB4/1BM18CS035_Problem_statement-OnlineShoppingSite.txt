@@ -1,0 +1,58 @@
+Online shopping site 
+Problem statement: 
+	List of all the products will be displayed to the user and a non-member of the site can view the 
+	products and in case if he wants to order the products he has to create a account and become the 
+	member of the site by giving his/her personal details such as username, password, phone number 
+	and gmail. Once the account has created he/she can order items from site where each member is given 
+	seprate cart to add items and once the item has finalized he can order the items by selecting the 
+	appropriate the payment option by giving the card details and providing the delivery details 
+	this order is received by the sales staff they'll pack the order and give it to the delivery depar	
+	-tment where they delivery the product to their corresponding delivery location. If the product 
+	is damaged while shipping he/she have the option the return the product and get back the new product.
+	All the details of the each customer has been stored in the company database
+
+IEEE standard SRS document 
+Introduction : 
+	Online shopping site acts as a interface between the products and customers where he/she can order 
+	the items online . 
+Purpose : 
+	Providing the large collection of items all over the world to the customers and providing the delivery 
+	options by deliverying the stuff with-in 4-5 working days.
+Scope : 
+	Displaying large variety of items to the customers so that they can order online without wasting time 
+	going to shops and get stuck themselves in traffic .
+
+External interface Requirements 
+User interface :
+for customers 
+	* product search 	
+	* order items 
+	* view items 
+	* user logins 
+for suppliers 
+	* update price 
+	* update availability 
+
+Hardware interface : 
+	* intel i5 8th gen 
+	* 4gb ram 
+	* 500gb HDD
+	* 1mbps or better internet
+ 
+Software interface : 
+	* Windows 7 or latest 
+	* Browsers 
+
+Functional Requirements : 
+	* Responsive 
+	* Minimal Design
+	* Good UI
+	* Security 
+	* portable 
+	* reliable 
+Non-functional requirements : 
+	* Profitable 
+	* low cost 
+	* quality products 
+
+   
