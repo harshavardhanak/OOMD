@@ -1,0 +1,45 @@
+Online shopping site 
+Problem statement: 
+	Coffee vending machine is basically the labourless and contactless machine providing the coffee to the 
+	customers by accepting cash and by taking small amount of electricity. Such machines should have a 
+	more efficiency.
+
+IEEE standard SRS document 
+Introduction : 
+	Developing a coffee vending machine with more efficiency and responsive. Which is helpfull to 
+	the customers .
+Purpose : 
+	Developing contactless and labourless no ensure safe and economical service to the customers.
+Scope : 
+	Displaying variety of coffee available and providing to the customers by accepting money from the 
+	customers.
+
+External interface Requirements 
+User interface :
+for customers 
+	* coffee search 	
+	* order  
+	* view  
+for suppliers 
+	* update price 
+	* update availability 
+
+Hardware interface : 
+	* intel i5 8th gen 
+	* 4gb ram 
+	* 500gb HDD
+	* 1mbps or better internet
+
+Functional Requirements : 
+	* Responsive 
+	* Minimal Design
+	* Good UI
+	* Security 
+	* portable 
+	* reliable 
+Non-functional requirements : 
+	* Profitable 
+	* low cost 
+	* quality products 
+
+   
